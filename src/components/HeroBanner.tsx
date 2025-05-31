@@ -51,9 +51,6 @@ const HeroBanner = () => {
           </div>
           
           <div className="animate-fade-in delay-500">
-            <h3 className="text-xl md:text-2xl text-indigo-400 font-semibold mb-8">
-              Let's build powerful systems together.
-            </h3>
             <Button 
               size="lg" 
               className="bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 text-white px-8 py-3 rounded-lg font-semibold transition-all duration-300 transform hover:scale-105"
