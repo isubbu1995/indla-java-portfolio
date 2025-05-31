@@ -14,12 +14,7 @@ const HeroBanner = () => {
       </div>
       
       <div className="relative z-10 text-center max-w-4xl mx-auto px-6">
-        <div className="animate-fade-in">
-          {/* Profile Image Upload */}
-          <div className="mb-8">
-            <ImageUpload size="xl" />
-          </div>
-          
+        <div className="animate-fade-in">          
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-indigo-400 via-purple-400 to-blue-400 bg-clip-text text-transparent">
             Subramanyam Indla
           </h1>
